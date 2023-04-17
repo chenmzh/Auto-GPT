@@ -24,3 +24,5 @@ htmlcov/
 
 # For Macs Dev Environs: ignoring .Desktop Services_Store
 .DS_Store
+.env.template
+ai_settings.yaml
