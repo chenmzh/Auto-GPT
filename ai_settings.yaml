@@ -1,17 +1,7 @@
 ai_goals:
-- Read 10 mostly cited review in synthetic biology and find 10 mostly influenced technology
-  in synthetic biology, summarize it and export it to the file
-- Read papers or reviews, find 3 mostly important questions in synthetic biology unsolved
-  yet
-- think deeply for each questions or problem, instead to try to solve them directly,
-  propose 5 deeper reasons for each question or problem, which once solved, the upper
-  question or problems can be solved accordingly. organize and export the reasoning
-  process, results and conclusion to the file
-- Think about the possible connections between the technologies and the deeper reasons
-  causing current problems, try to see if any combinations of technology and the deeper
-  reasons can help solve the important problems, export and write the resoning process,
-  results, and problems to the files
-- rank the combinations  by influence, export to files
-ai_name: Researcher_GPT
-ai_role: designed to generate ideas by combining the top notch technology and deeply
-  not solved problems in synthetic biology
+- read the thesis.txt file in the auto_gpt_workspace
+- analyze the text, generate the contents for powerpoint with both txt, table and
+  prompt for pictures
+- write the result file to auto_gpt_workspace
+ai_name: PPT-GPT
+ai_role: to help people generate content for the powerpoint
